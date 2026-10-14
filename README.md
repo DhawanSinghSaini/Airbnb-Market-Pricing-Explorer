@@ -130,7 +130,6 @@ Power Query (M) cleaning of messy text fields, star-schema modelling, DAX with w
 ![Neighbourhood Comparision](images/neighbourhood.png)
 ![Host Analysis](images/host.png)
 ![Simulation](images/revenue.png)
-![Market overview](images/overview.png)
 
 ## Author
 
